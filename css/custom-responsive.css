@@ -1,0 +1,83 @@
+/*==========================
+small device /mobile sm and large
+===========================*/
+@media (max-width: 767px) {
+    .countdown {
+        position: relative;
+        max-width: 100%;
+        margin: auto;
+        text-align: -webkit-center;
+        margin-bottom: 40px;
+        display: -webkit-inline-box;
+        right: 30px;
+    }
+
+
+
+    .countdown .counter-item {
+        max-width: 100%;
+        display: block;
+        margin: auto 20px;
+    }
+
+    .hero-form-content {
+        margin-top: 0px;
+    }
+
+    .countdown .counter-item:last-of-type {
+        margin: auto 20px;
+    }
+
+    h1.banner-title {
+        text-align: end;
+    }
+
+    .conclave {
+        max-width: 100%;
+        height: auto;
+        left: 10px
+    }
+
+    .banner-item .banner-content-wrap p.banner-info {
+        left: 20px;
+    }
+
+    .hero-speakers .banner-item .banner-content-wrap {
+        padding: 90px 0 180px;
+    }
+
+    .divicn {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .divicn2 {
+        display: flex;
+        text-align: center;
+        margin: auto;
+    }
+
+
+    .icn {
+        margin: auto 20px;
+    }
+
+    .liv {
+        display: flex;
+        text-align: center;
+        margin: 30px auto 0;
+    }
+
+    .social-box {
+        margin: auto;
+    }
+
+    .social-btn {
+        text-align: -webkit-center;
+    }
+
+    .social-btn ul li {
+        margin: 20px;
+    }
+
+}
